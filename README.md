@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ManosMakTech
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning Java and C
+- 📫 How to reach me: gmail makridakismanos1234@gmail.com
